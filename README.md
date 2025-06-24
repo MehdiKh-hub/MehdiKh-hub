@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is Mohammad Mehdi A computer engineering student learning C# and .NET, focused on backend development, clean architecture, and SQL Server. Passionate about building scalable applications and continuously improving my skills.</h2>
-<h1 its ma Site  <a href="https://mehdikh-hub.github.io/"> </h1>
 
 ###
 
